@@ -6,9 +6,9 @@ Run ```npm install``` to install the dependencies.
 Start the local server on your machine using ```node server.js```
 
 # Project Instructions:
-For this project you will be building a very simple application to test your skills in JavaScript. For this project you will be using a very simple server utilizing Node.js and Express. All of the necessary dependencies to complete this project are already added to it, please do not add any additional dependencies. 
+For this project you will be building a very simple application to test your skills in JavaScript. You will be using a small local server utilizing Node.js and Express. All of the necessary dependencies to complete this project are already added to it, please do not add any additional dependencies. 
 
-The project will be a simple table that displays cities in the State of Oregon. There is an array at the root of the project with all of the city data, this is the data you will be using for the project. You may notice that some of the cities are not in Oregon, any city that is not in Oregon should not show up on your table. Rules for completing the project have been outlined below.
+The project will be a simple table that displays cities in the State of Oregon. There is an array (data.json) at the root of the project with all of the city data, this is the data you will be using for the project. You may notice that some of the cities are not in Oregon, any city that is not in Oregon should not show up on your table. Rules for completing the project have been outlined below.
 
 * All city data for Oregon should be displayed in a table.
 * This can be done using the HTML table or if you prefer you can build out your own table.
